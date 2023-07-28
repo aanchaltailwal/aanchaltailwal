@@ -1,16 +1,22 @@
-### Hi there 👋
+Aanchal Tailwal
 
-<!--
-**aanchaltailwal/aanchaltailwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Picture](professional.jpg)
 
-Here are some ideas to get you started:
+## About Me
+Hello! I'm Aanchal Tailwal, a DevOps and Web Development enthusiast currently in my pre-final year at the University of Petroleum and Energy Studies in Dehradun. My focus is on pursuing a BTech in Computer Science and Engineering, specializing in DevOps. I have a deep commitment to self-improvement and always strive for personal growth and excellence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Contact Me
+
+If you'd like to connect or reach out to me, you can find me on LinkedIn. Feel free to send me a message or follow me on this platform. I'm always open to networking and discussing exciting opportunities!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aanchal-tailwal-73a45a227)
+
+
+About Me
+Hello! I'm Aanchal Tailwal, a DevOps and Web Development enthusiast currently in my pre-final year at the University of Petroleum and Energy Studies in Dehradun. My focus is on pursuing a BTech in Computer Science and Engineering, specializing in DevOps. I have a deep commitment to self-improvement and always strive for personal growth and excellence.
+
+
+
+
+
+
