@@ -10,9 +10,6 @@ If you'd like to connect or reach out to me, you can find me on LinkedIn. Feel f
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aanchal-tailwal-73a45a227), [Twitter](https://twitter.com/AanchalTailwal), [Instagram](https://instagram.com/aanchal_tailwal_?igshid=MzNlNGNkZWQ4Mg==) and [Facebook](https://www.facebook.com/aanchal.tailwal)
 
 
-About Me
-Hello! I'm Aanchal Tailwal, a DevOps and Web Development enthusiast currently in my pre-final year at the University of Petroleum and Energy Studies in Dehradun. My focus is on pursuing a BTech in Computer Science and Engineering, specializing in DevOps. I have a deep commitment to self-improvement and always strive for personal growth and excellence.
-
 
 
 
