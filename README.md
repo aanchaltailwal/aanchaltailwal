@@ -6,8 +6,8 @@ Hello! I'm Aanchal Tailwal, a DevOps and Web Development enthusiast currently in
 
 ## Contact Me
 
-If you'd like to connect or reach out to me, you can find me on LinkedIn. Feel free to send me a message or follow me on this platform. I'm always open to networking and discussing exciting opportunities!
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aanchal-tailwal-73a45a227)
+If you'd like to connect or reach out to me, you can find me on LinkedIn. Feel free to send me a message or follow me on these platforms. I'm always open to networking and discussing exciting opportunities!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aanchal-tailwal-73a45a227)[Twitter]() [Instagram](https://instagram.com/aanchal_tailwal_?igshid=MzNlNGNkZWQ4Mg==) [Facebook](https://www.facebook.com/aanchal.tailwal)
 
 
 About Me
