@@ -17,10 +17,18 @@ Feel free to connect with me on
 
 "Exploring the Tech Universe: 🚀 Languages and Tools I've Embarked Upon 🛠️"
 
-- HTML                                      - CSS                                          - JAVA
-- C                                         - Maven                                        - MySQL
-- Git                                       - VS Code                                      - MongoDB
-- Bash                                      - Python 
+- :computer: HTML
+- :art: CSS
+- :coffee: JAVA
+- :1234: C
+- :wrench: Maven
+- :floppy_disk: MySQL
+- :octocat: Git
+- :code: VS Code
+- :leaves: MongoDB
+- :shell: Bash
+- :snake: Python
+
 
 
 
