@@ -13,6 +13,17 @@ Feel free to connect with me on
 [Instagram](https://instagram.com/aanchal_tailwal_?igshid=MzNlNGNkZWQ4Mg==) and 
 [Facebook](https://www.facebook.com/aanchal.tailwal)
 
+## My Tech Arsenal
+
+"Exploring the Tech Universe: 🚀 Languages and Tools I've Embarked Upon 🛠️"
+## Tools and Languages I've Worked With
+
+- HTML - CSS
+- JAVA - C - Maven
+- MySQL - Git - VS Code
+- MongoDB
+- Bash - Python 
+
 
 
 
