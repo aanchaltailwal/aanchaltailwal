@@ -1,7 +1,8 @@
 Aanchal Tailwal
 
 ## About Me
-Hello! I'm Aanchal Tailwal, a DevOps and Web Development enthusiast currently in my pre-final year at the University of Petroleum and Energy Studies in Dehradun. My focus is on pursuing a BTech in Computer Science and Engineering, specializing in DevOps. I have a deep commitment to self-improvement and always strive for personal growth and excellence.
+Hello! 👋
+I'm Aanchal Tailwal, a DevOps and Web Development enthusiast currently in my pre-final year at the University of Petroleum and Energy Studies in Dehradun. My focus is on pursuing a BTech in Computer Science and Engineering, specializing in DevOps. I have a deep commitment to self-improvement and always strive for personal growth and excellence.
 
 
 ## Contact Me
@@ -16,7 +17,9 @@ Feel free to connect with me on
 
 ## My Tech Arsenal
 
-"Exploring the Tech Universe: 🚀 Languages and Tools I've Embarked Upon 🛠️"
+"Exploring the Tech Universe: 🚀
+
+Languages and Tools I've Embarked Upon 🛠️"
 
 - <img src="https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white" alt="HTML">
 - <img src="https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white" alt="CSS">
