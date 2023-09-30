@@ -34,7 +34,8 @@ Languages and Tools I've Embarked Upon 🛠️"
 - <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash">
 - <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 
-
+## Badges
+https://www.holopin.io/hacktoberfest2023/userbadge/cln6aw1cb122730fl6n9vtamx5
 
 
 
