@@ -34,7 +34,7 @@ Languages and Tools I've Embarked Upon 🛠️"
 - <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash">
 - <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 
-## Earn Badges
+## Earned Badges
 [![An image of @aanchaltailwal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aanchaltailwal)](https://holopin.io/@aanchaltailwal)
 
 
