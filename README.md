@@ -18,9 +18,9 @@ Feel free to connect with me on
 
 ## My Tech Arsenal
 
-"Exploring the Tech Universe: 🚀
+"Exploring the Tech Universe: "🚀
 
-Languages and Tools I've Embarked Upon 🛠️"
+Languages and Tools I've Embarked Upon 🛠️
 
 - <img src="https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white" alt="HTML">
 - <img src="https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white" alt="CSS">
