@@ -1,6 +1,6 @@
 Aanchal Tailwal🙋
 
-## AboutMe
+## About Me
 
 Hello! 👋
 I'm Aanchal Tailwal, a DevOps and Web Development enthusiast currently in my pre-final year at the University of Petroleum and Energy Studies in Dehradun. My focus is on pursuing a BTech in Computer Science and Engineering, specializing in DevOps and minor in AI/ML. I have a deep commitment to self-improvement and always strive for personal growth and excellence.
